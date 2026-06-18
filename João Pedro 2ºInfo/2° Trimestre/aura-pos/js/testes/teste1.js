@@ -1,7 +1,3 @@
-
-
-
-
 /* Criando varíaveis para guardar o nome e a idade */
 let Nome = "Ana"
 let Idade = "25"
