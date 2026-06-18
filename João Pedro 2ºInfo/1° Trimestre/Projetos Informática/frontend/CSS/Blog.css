@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sand-serif;
+    background-color: lightgray;
+    opacity: 1;
+    margin: 20px;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+.ragrafo {
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: bold;
+}
+b {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+div {
+    text-align: center;
+    padding: 20px;
+}
+footer {
+    text-align: left;
+    color: red;
+}
+title {
+    text-align: center;
+}
+.hovi:hover {
+    color: rgb(245, 77, 231);
+}

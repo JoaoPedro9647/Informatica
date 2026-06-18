@@ -1,0 +1,19 @@
+Renda fixa 
+é uma modalidade de investimento segura, ideal para reserva de emergência ou objetivos de médio/longo prazo, onde se conhece as regras de rendimento (pré ou pós-fixado) no momento da aplicação. Os principais títulos são Tesouro Direto (governo), CDBs, LCIs/LCAs (bancos) e Debêntures, muitos cobertos pelo FGC
+
+Renda fixa prefixada é um investimento onde a taxa de juros é definida no momento da aplicação, garantindo previsibilidade total do valor a ser recebido no vencimento, com taxas atuais em torno de 14% ao ano. É ideal para cenários de queda na inflação e juros, mas não protege contra o aumento de preços.
+
+A renda fixa pós-fixada é um investimento cuja rentabilidade está atrelada a um indicador econômico (como CDI, Selic ou IPCA). O rendimento final só é conhecido no vencimento, acompanhando as variações da economia. É ideal para cenários de alta de juros e reserva de emergência, oferecendo alta liquidez e baixo risco
+
+O Tesouro Selic é um título público de renda fixa, considerado o mais seguro do Brasil, ideal para reserva de emergência e objetivos de curto prazo. Ele rende conforme a taxa Selic (juros básicos), com liquidez diária (resgate D+0 ou D+1) e baixo risco de marcação a mercado. 
+
+O CDB (Certificado de Depósito Bancário) é um título de renda fixa emitido por bancos para captar recursos, onde você empresta dinheiro à instituição e recebe juros. É considerado um investimento seguro, protegido pelo Fundo Garantidor de Créditos (FGC) até R$ 250 mil, ideal para quem busca rentabilidade superior à poupança
+
+A LCI (Letra de Crédito Imobiliário) é um título de renda fixa emitido por bancos para financiar o setor imobiliário. É um investimento seguro, protegido pelo Fundo Garantidor de Crédito (FGC) até R$ 250 mil, e a principal vantagem para pessoas físicas é a isenção de Imposto de Renda sobre os rendimentos.
+
+A LCA (Letra de Crédito do Agronegócio) é um investimento de renda fixa isento de Imposto de Renda para pessoas físicas, lastreado em empréstimos para o setor agropecuário. Emitida por bancos, é considerada segura, coberta pelo FGC, com rendimentos geralmente atrelados ao CDI, ideais para perfis conservadores que buscam maior rentabilidade que a poupança
+
+
+
+Renda variável 
+engloba investimentos cujos retornos não são previsíveis ou predeterminados, apresentando maior volatilidade e risco comparado à renda fixa. A rentabilidade oscila de acordo com fatores de mercado (ações, FIIs, etc.), permitindo ganhos superiores, mas sem garantir o capital investido.
